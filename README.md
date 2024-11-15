@@ -15,7 +15,7 @@
 - 💬 **Ask Me About**:  
   Responsive design, speeding up project timelines, and making users love your site.  
 - 📫 **Reach Me If You Dare**:  
-  - Email: [oleinikovbs@gmail.com](mailto:oleinikovbs@gmail.com)  
+  - Email: [Contact me](mailto:oleinikovbs@gmail.com)  
   - LinkedIn: [Dev by Aleks](https://www.linkedin.com/in/developedbyaleks/)  
 
 ---
