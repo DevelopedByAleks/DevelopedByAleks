@@ -51,10 +51,8 @@
 
 ## ⚡ Fun Facts
 
-- 🐶 I’m obsessed with dogs. One day, I’ll have two, and they’ll probably judge my code.  
 - 🌄 I run trails and hit the road on my bike to recharge my creativity. Nature > coffee (most of the time).  
-- 🚗 Road trips are my love language. Bonus points if I can brainstorm app ideas along the way.  
-- **Dream username**: Something like *CyberAlexLegend77* (but sadly, that’s taken).
+- 🚗 Road trips are my love language. Bonus points if I can brainstorm app ideas along the way.
 
 ---
 
