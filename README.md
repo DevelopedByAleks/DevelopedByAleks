@@ -16,7 +16,7 @@
   Responsive design, speeding up project timelines, and making users love your site.  
 - 📫 **Reach Me If You Dare**:  
   - Email: [oleinikovbs@gmail.com](mailto:oleinikovbs@gmail.com)  
-  - LinkedIn: [Alex Frontend](https://www.linkedin.com/in/alex-frontend/)  
+  - LinkedIn: [Alex Frontend](https://www.linkedin.com/in/developedbyaleks/)  
 
 ---
 
