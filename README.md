@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aleksandr Oleinikov!
+# Hi there 👋, I'm Aleksandr!
 
 🚀 **Front-End Developer** by day, trail runner and road biker by… well, whenever the trails and roads call! I’m here to make the web faster, prettier, and a whole lot more fun to use. If you’re into seamless UI/UX, snappy designs, and a bit of code wizardry, we’re already friends. 😄
 
